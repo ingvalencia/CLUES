@@ -19,4 +19,13 @@ con DataTables.
 - DataTables (Manejo de datos en tabla)
 - Bootstrap (Diseño moderno y responsivo)
 
+![image](https://github.com/user-attachments/assets/50a43057-b5e9-4a2e-837f-eef18fb13bba)
+
+![image](https://github.com/user-attachments/assets/a7125585-fb33-4d8b-80ac-2652f9232948)
+
+![image](https://github.com/user-attachments/assets/3d9a5c0b-86cc-4bae-b7cc-17fb20854450)
+
+
+
+
 
